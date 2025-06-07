@@ -6,7 +6,7 @@ This project is a simple demonstration of a supervised machine learning pipeline
 
 ## 📁 Dataset
 
-- **Source**: A personal Excel file: `Cricket stats.xlsx`
+- **Source**: A personal Excel file (my own statistics from club cricket): `Cricket stats.xlsx`
 - **Sheet**: `Matches`
 - **Target variable**: `Team`
 - **Features** include:
